@@ -1,0 +1,12 @@
+{
+    "name": "maytinh/blog",
+    "require": {
+        "ext-pdo": "*"
+    },
+    "description": "",
+    "autoload": {
+        "psr-4": {
+            "app\\" : "./app"
+        }
+    }
+}
